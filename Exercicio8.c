@@ -15,7 +15,7 @@ int main(){
     
     printf("A ordem do vetor inversamente e:");
 
-    for ( i = 5; i > 0; i = i - 1)
+    for ( i = 5; i > -1; i = i - 1)
     {
         printf("%d - ", vetor[i]);
     }
